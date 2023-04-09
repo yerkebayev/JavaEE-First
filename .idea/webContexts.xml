@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/web/addform.jsp" value="file://$PROJECT_DIR$/src/main/webapp/web" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/web/addtask.jsp" value="file://$PROJECT_DIR$/src/main/webapp/web" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/web/details.jsp" value="file://$PROJECT_DIR$/src/main/webapp/web" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/web/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/web" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/web/navbar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/web" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/web/tasks.jsp" value="file://$PROJECT_DIR$/src/main/webapp/web" />
+      </map>
+    </option>
+  </component>
+</project>
